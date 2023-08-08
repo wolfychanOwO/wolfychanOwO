@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am backend web developer.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tvoi_Batia_UwU) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nsafronovjob@gmail.com)
+* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Nicholas-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tvoi_Batia_UwU) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nsafronovjob@gmail.com)
 * ⚡  I have strong communication and networking skills
 
 <p align="center">
